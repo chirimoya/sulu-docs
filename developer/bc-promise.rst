@@ -1,7 +1,7 @@
 Backwards Compatibility Promise
 ===============================
 
-Sulu is a stable software used in production. It is however still under heavy
+Sulu CMS is a stable software used in production. It is however still under heavy
 development and therefore a full backwards compatibility can not be guaranteed
 at the current stage.
 
